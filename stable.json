@@ -2,18 +2,18 @@
   "payload": {
     "app": "SON_STUDIO_AI_PRO",
     "channel": "stable",
-    "version": "0.2.79",
-    "notes": "Tu dong thong bao khi co ban cap nhat moi luc mo ung dung.",
-    "released_at": "2026-11-19T11:04:24.081485+00:00",
+    "version": "0.2.80",
+    "notes": "cap nhat giao dien",
+    "released_at": "2026-11-19T14:49:53.909509+00:00",
     "packages": [
       {
-        "from_version": "0.2.78",
-        "to_version": "0.2.79",
-        "url": "https://github.com/lson7857-cmyk/son-studio-updates/releases/download/v0.2.79/SON_STUDIO_PATCH_v0.2.78_to_v0.2.79.exe",
-        "sha256": "4a87b46a32dd960a7500fcf7e27ecfc36fbdea840b6a2284506395bcb8373142",
-        "size": 32811772
+        "from_version": "0.2.79",
+        "to_version": "0.2.80",
+        "url": "https://github.com/lson7857-cmyk/son-studio-updates/releases/tag/v0.2.80",
+        "sha256": "f9e72303f684d288c126a294432fc22f06026c174233b27a3aaab05df9ef29a0",
+        "size": 32834299
       }
     ]
   },
-  "signature": "oMU/bwUBfGuDDZtvrFHtirOREI/vj+83ctg03CabO2WnpSSf4/IQKqhcyeRNcLxmN4Tcp1Gz10QgumdfCTrEDg=="
+  "signature": "r0JYPyyfxEHipwvEJ9/e4CnvTDUwiaqETBgTNGb6gz0kDd0dMCMMjOa2iViwutZrgXNAFucASbV+CyFEH/MiBQ=="
 }
