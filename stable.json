@@ -2,10 +2,18 @@
   "payload": {
     "app": "SON_STUDIO_AI_PRO",
     "channel": "stable",
-    "version": "0.2.75",
-    "notes": "Ban dau ho tro cap nhat truc tuyen.",
-    "released_at": "2026-11-19T09:06:09.995460+00:00",
-    "packages": []
+    "version": "0.2.78",
+    "notes": "Sua loi tu thoat, them loc anh trung va man hinh khoi dong 4 giay.",
+    "released_at": "2026-11-19T10:20:35.213026+00:00",
+    "packages": [
+      {
+        "from_version": "0.2.75",
+        "to_version": "0.2.78",
+        "url": "https://github.com/lson7857-cmyk/son-studio-updates/releases/download/v0.2.78/SON_STUDIO_PATCH_v0.2.75_to_v0.2.78.exe",
+        "sha256": "9060e71247a50363fb183c8a8c42e553e51cb54651dc0185c79282f8f33eaf87",
+        "size": 34402674
+      }
+    ]
   },
-  "signature": "8VT102XL/AszEItL7hyTslGHkv/69e7aI8WkD4QYXwofqfa2v53p5atNlEK+LNmTFoyjhlRhc9xcJh9COxBQDQ=="
+  "signature": "o+QtJ3J7Y1ex7Rn3LczBDR5+WqC8OQF4JOrU53dzqzSjq2LcRshrYqZofWM/qY4sOolyteHnkh84HYAV8KScAg=="
 }
