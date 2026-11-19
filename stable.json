@@ -2,18 +2,18 @@
   "payload": {
     "app": "SON_STUDIO_AI_PRO",
     "channel": "stable",
-    "version": "0.2.78",
-    "notes": "Sua loi tu thoat, them loc anh trung va man hinh khoi dong 4 giay.",
-    "released_at": "2026-11-19T10:20:35.213026+00:00",
+    "version": "0.2.79",
+    "notes": "Tu dong thong bao khi co ban cap nhat moi luc mo ung dung.",
+    "released_at": "2026-11-19T11:04:24.081485+00:00",
     "packages": [
       {
-        "from_version": "0.2.75",
-        "to_version": "0.2.78",
-        "url": "https://github.com/lson7857-cmyk/son-studio-updates/releases/download/v0.2.78/SON_STUDIO_PATCH_v0.2.75_to_v0.2.78.exe",
-        "sha256": "9060e71247a50363fb183c8a8c42e553e51cb54651dc0185c79282f8f33eaf87",
-        "size": 34402674
+        "from_version": "0.2.78",
+        "to_version": "0.2.79",
+        "url": "https://github.com/lson7857-cmyk/son-studio-updates/releases/download/v0.2.79/SON_STUDIO_PATCH_v0.2.78_to_v0.2.79.exe",
+        "sha256": "4a87b46a32dd960a7500fcf7e27ecfc36fbdea840b6a2284506395bcb8373142",
+        "size": 32811772
       }
     ]
   },
-  "signature": "o+QtJ3J7Y1ex7Rn3LczBDR5+WqC8OQF4JOrU53dzqzSjq2LcRshrYqZofWM/qY4sOolyteHnkh84HYAV8KScAg=="
+  "signature": "oMU/bwUBfGuDDZtvrFHtirOREI/vj+83ctg03CabO2WnpSSf4/IQKqhcyeRNcLxmN4Tcp1Gz10QgumdfCTrEDg=="
 }
