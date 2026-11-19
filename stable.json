@@ -3,17 +3,17 @@
     "app": "SON_STUDIO_AI_PRO",
     "channel": "stable",
     "version": "0.2.80",
-    "notes": "cap nhat giao dien",
-    "released_at": "2026-11-19T14:49:53.909509+00:00",
+    "notes": "thay doi giao dien",
+    "released_at": "2026-11-19T14:52:27.786339+00:00",
     "packages": [
       {
         "from_version": "0.2.79",
         "to_version": "0.2.80",
-        "url": "https://github.com/lson7857-cmyk/son-studio-updates/releases/tag/v0.2.80",
+        "url": "https://github.com/lson7857-cmyk/son-studio-updates/releases/download/v0.2.80/SON_STUDIO_PATCH_v0.2.79_to_v0.2.80.exe",
         "sha256": "f9e72303f684d288c126a294432fc22f06026c174233b27a3aaab05df9ef29a0",
         "size": 32834299
       }
     ]
   },
-  "signature": "r0JYPyyfxEHipwvEJ9/e4CnvTDUwiaqETBgTNGb6gz0kDd0dMCMMjOa2iViwutZrgXNAFucASbV+CyFEH/MiBQ=="
+  "signature": "EbCsgjlXAZkQybHVeXNqCucPDjfPD2HCWSH6RgK5M4Fzh7YjgAw9Y0AYLmVz0n8tFiAZ/P0GpOHihONzMIccCw=="
 }
