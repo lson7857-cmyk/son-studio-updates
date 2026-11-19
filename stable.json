@@ -1,0 +1,11 @@
+{
+  "payload": {
+    "app": "SON_STUDIO_AI_PRO",
+    "channel": "stable",
+    "version": "0.2.75",
+    "notes": "Ban dau ho tro cap nhat truc tuyen.",
+    "released_at": "2026-11-19T07:23:44.368126+00:00",
+    "packages": []
+  },
+  "signature": "Cft7Lf0Q/bbwIcSzLTPx1Hx8yNNXdafGcAk56QsnzZWAq89swDHnYz5FnfUbAz2Xo7xQ2cUEhRBnz8Z2tiBuAA=="
+}
