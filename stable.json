@@ -2,18 +2,10 @@
   "payload": {
     "app": "SON_STUDIO_AI_PRO",
     "channel": "stable",
-    "version": "0.2.76",
-    "notes": "Them man hinh khoi dong 4 giay va tinh nang loc anh trung thong minh.",
-    "released_at": "2026-11-19T08:49:52.095672+00:00",
-    "packages": [
-      {
-        "from_version": "0.2.75",
-        "to_version": "0.2.76",
-        "url": "https://github.com/lson7857-cmyk/son-studio-updates/releases/download/v0.2.76/SON_STUDIO_PATCH_v0.2.75_to_v0.2.76.exe",
-        "sha256": "d7c60f1a571aabe5524a59e11691d3634c3d1077261f57a5332db97baba92be9",
-        "size": 34400853
-      }
-    ]
+    "version": "0.2.75",
+    "notes": "Ban dau ho tro cap nhat truc tuyen.",
+    "released_at": "2026-11-19T09:06:09.995460+00:00",
+    "packages": []
   },
-  "signature": "bBb0eNj7uaKDWbW5SBnhDq6UituF6ZLTymxk6qzqstja5YjVa70OoGEvdHHA++uvdo5oy8GRI2nlWS3f5On2DA=="
+  "signature": "8VT102XL/AszEItL7hyTslGHkv/69e7aI8WkD4QYXwofqfa2v53p5atNlEK+LNmTFoyjhlRhc9xcJh9COxBQDQ=="
 }
