@@ -4,16 +4,16 @@
     "channel": "stable",
     "version": "0.2.80",
     "notes": "thay doi giao dien",
-    "released_at": "2026-11-19T14:52:27.786339+00:00",
+    "released_at": "2026-11-19T15:14:34.981971+00:00",
     "packages": [
       {
-        "from_version": "0.2.79",
+        "from_version": "0.2.75",
         "to_version": "0.2.80",
-        "url": "https://github.com/lson7857-cmyk/son-studio-updates/releases/download/v0.2.80/SON_STUDIO_PATCH_v0.2.79_to_v0.2.80.exe",
-        "sha256": "f9e72303f684d288c126a294432fc22f06026c174233b27a3aaab05df9ef29a0",
-        "size": 32834299
+        "url": "https://github.com/lson7857-cmyk/son-studio-updates/releases/download/v0.2.80/SON_STUDIO_PATCH_v0.2.75_to_v0.2.80.exe",
+        "sha256": "d653a9d1156b6610572643271b46fc05aa01378dccb26edadbbb10c1dd594c27",
+        "size": 34420494
       }
     ]
   },
-  "signature": "EbCsgjlXAZkQybHVeXNqCucPDjfPD2HCWSH6RgK5M4Fzh7YjgAw9Y0AYLmVz0n8tFiAZ/P0GpOHihONzMIccCw=="
+  "signature": "e11fthRqV0OIrt+6qBuMTwXRHbddQTf+zwu8wkKuZP8ZueJW19T3wBIVmFbBUOPlB3TCSxmjCA9l8+NGcACzDg=="
 }
