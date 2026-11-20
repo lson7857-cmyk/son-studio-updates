@@ -2,18 +2,18 @@
   "payload": {
     "app": "SON_STUDIO_AI_PRO",
     "channel": "stable",
-    "version": "0.2.81",
-    "notes": "CAP NHAT",
-    "released_at": "2026-11-19T16:27:00.684511+00:00",
+    "version": "0.2.82",
+    "notes": "cap nhat lon",
+    "released_at": "2026-11-20T15:40:41.568726+00:00",
     "packages": [
       {
-        "from_version": "0.2.80",
-        "to_version": "0.2.81",
-        "url": "https://github.com/lson7857-cmyk/son-studio-updates/releases/download/V0.2.81/SON_STUDIO_PATCH_v0.2.80_to_v0.2.81.exe",
-        "sha256": "b9d3e870fd21dd57d21d0587a25a84e367e74bb95e8ad79e5136d0324ffe6ada",
-        "size": 32870213
+        "from_version": "0.2.81",
+        "to_version": "0.2.82",
+        "url": "https://github.com/lson7857-cmyk/son-studio-updates/releases/download/v0.2.82/SON_STUDIO_PATCH_v0.2.81_to_v0.2.82.exe",
+        "sha256": "7c9b38d55a6560101bdb05e98735940898ebd08a13c4368ae3643d2ad272133e",
+        "size": 176977842
       }
     ]
   },
-  "signature": "WvmUN9w4pK10Qr075C24zGaOQ8rXz7ZVbxwvQd+pZH6mHtM9yhDJvn274Dit6Sy8qaJipkh8DWxOU9rkyAO5AA=="
+  "signature": "z7zqK5V3VVIVUe1BF7+j0KNcftYe6UEMPlFj9S3fNHTkPyB9RKWcubgLFIHh0bmf29jKwIr5e/Dwr4yTsctGDw=="
 }
